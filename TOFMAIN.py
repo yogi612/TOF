@@ -20,8 +20,8 @@ INSTAGRAM 'https://www.instagram.com/theonly_faujdar/'
 
 # Define the repositories and their respective URLs
 repositories = {
-    'ANDROID': 'https://github.com/termuxhackers-id/SARA',
-    'WINDOWS': 'https://github.com/Hex1629/Ac0ddRansom'
+    'ANDROID': 'https://github.com/yogi612/ANDROID',
+    'WINDOWS': 'https://github.com/yogi612/WINDOWS'
 }
 
 # Function to clone and install a repository
@@ -59,4 +59,3 @@ if __name__ == "__main__":
             print("Invalid choice.")
     except ValueError:
         print("Invalid input. Please enter a number.")
-
